@@ -1,4 +1,4 @@
-{% test anomaly_test(
+{% test volumetric_test(
     model,
     metric_column,
     time_column="date",
